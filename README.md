@@ -1,6 +1,6 @@
 # export-default-from-codemod
 
-> Codemod scripts to transform from or to the export-default-from syntax
+> Codemods to transform from or to the export-default-from syntax
 
 ## Usage
 
